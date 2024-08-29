@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/under-western-eyes</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-08-29T19:52:54Z</dc:date>
+		<meta property="dcterms:modified">2024-08-29T19:52:54Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,19 +52,19 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Kirylo Sidorovitch Razumov is a student in &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg, applying himself to his studies and harboring ambitions of rising in Russian society. But following the assassination of a high-ranking Russian minister, his plans are shattered as the assassin turns out to be a fellow student, Victor Haldin, who looks to Razumov for help when fleeing the scene of the crime. Razumov is deeply conflicted, but in the moment acts to preserve his own self-interest rather than assist his friend.&lt;/p&gt;
-			&lt;p&gt;Haldin had spoken to Razumov of his mother and sister, living in Geneva. As Razumov is recruited to spy for the Czarist government, he makes his way to Switzerland and meets &lt;abbr&gt;Mrs.&lt;/abbr&gt; Haldin and the sister, Natalia. The women have been deeply affected by the loss of their son and brother, and Razumov’s presence in Geneva deepens their distress. Ultimately, Razumov himself must come to terms with his choices.&lt;/p&gt;
+			&lt;p&gt;Kirylo Sidorovitch Razumov is a student in St. Petersburg, applying himself to his studies and harboring ambitions of rising in Russian society. But his plans are shattered when a fellow student, Victor Haldin, assassinates a high-ranking Russian minister before turning to Razumov for help. Razumov is deeply conflicted, but in the moment acts to preserve his own self-interest rather than assist his friend.&lt;/p&gt;
+			&lt;p&gt;Haldin had spoken to Razumov of his mother and sister, living in Geneva. As Razumov is recruited to spy for the Czarist government, he makes his way to Switzerland and meets Mrs. Haldin and the sister, Natalia. The women have been deeply affected by the loss of their son and brother, and Razumov’s presence in Geneva deepens their distress. Ultimately, Razumov himself must come to terms with his choices.&lt;/p&gt;
 			&lt;p&gt;The narrator in the novel is an Anglo-Russian language teacher, an older man who has been tutoring Natalia Haldin in English literature. His telling of the story draws both on his own eyewitness experience, and on Razumov’s journal which has come into his possession.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; 1920 preface to this work acknowledged its unpopularity on its original publication nine years earlier. Subsequently, however, it has been widely acclaimed as perhaps his finest political novel. It also shares something of the prescience shown in &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent"&gt;&lt;i&gt;The Secret Agent&lt;/i&gt;&lt;/a&gt;, written four years earlier.&lt;/p&gt;
-			&lt;p&gt;Ambivalence among the book’s first readers may have had something to do with Conrad’s artistic choices for the narration and structure of the novel. His unnamed narrator, the somewhat intrusive “teacher of languages,” disavows facility with words and imagination, yet the story emerges from the perceptions of his “Western eyes.” Structurally, the story line moves in a disordered chronology, making disjunctions in the plot. Similarly, its many intense dialogues somehow fail to connect their participants.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; 1920 preface to this work acknowledges its contemporary unpopularity. Subsequently, however, it has been widely acclaimed as perhaps his finest political novel, sharing something of the prescience shown in &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent"&gt;&lt;i&gt;The Secret Agent&lt;/i&gt;&lt;/a&gt;, written four years earlier.&lt;/p&gt;
+			&lt;p&gt;Ambivalence among the book’s first readers may have had something to do with Conrad’s artistic choices for the narration and structure of the novel. His unnamed narrator, the somewhat intrusive “teacher of languages,” disavows facility with words and imagination, yet the story emerges from the perceptions of his “Western eyes.” Structurally, the storyline moves in a disordered chronology. Similarly, its often-intense dialogue somehow fails to establish a connection between the participants.&lt;/p&gt;
 			&lt;p&gt;Conrad’s exploration of stability and revolution, loyalty and betrayal, action and abstention, love and indifference, are all deepened by these unsettling techniques, demanding that the reader engage actively in the unfolding of this political and personal drama.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2480</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.268641</dc:source>
 		<meta property="se:production-notes">Conrad’s 1920 preface has been transcribed for this edition, thus this ebook constitutes its source.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">114683</meta>
+		<meta property="se:reading-ease.flesch">65.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Under_Western_Eyes_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_under-western-eyes</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -97,6 +97,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
