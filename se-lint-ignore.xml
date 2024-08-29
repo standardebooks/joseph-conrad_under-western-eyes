@@ -6,10 +6,4 @@
 			<reason>Quotation marks are not dialog; no punctuation is missing.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-1-2.xhtml">
-		<ignore>
-			<code>t-017</code>
-			<reason>Phrase is an independent sentence, thus punctuation is inside formatting.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
