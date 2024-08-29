@@ -66,24 +66,10 @@ section[epub|type~="epigraph"]{
 }
 /* End full-page epigraphs */
 
-/* Begin PREFACE */
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
-
-footer p:first-child{
-	text-align: initial;
-}
-
-@supports(display: flex){
-	footer{
-		display: flex;
-		flex-flow: row wrap;
-		justify-content: space-between;
-	}
-}
-/* end preface */
 
 /* Begin OTHER */
 #dedication p{
