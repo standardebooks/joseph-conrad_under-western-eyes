@@ -50,14 +50,19 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Kirylo Sidorovitch Razumov is a student in &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg, applying himself to his studies and harboring ambitions of rising in Russian society. But following the assassination of a high-ranking Russian minister, his plans are shattered as the assassin turns out to be a fellow student, Victor Haldin, who looks to Razumov for help when fleeing the scene of the crime. Razumov is deeply conflicted, but in the moment acts to preserve his own self-interest rather than assist his friend.&lt;/p&gt;
+			&lt;p&gt;Haldin had spoken to Razumov of his mother and sister, living in Geneva. As Razumov is recruited to spy for the Czarist government, he makes his way to Switzerland and meets &lt;abbr&gt;Mrs.&lt;/abbr&gt; Haldin and the sister, Natalia. The women have been deeply affected by the loss of their son and brother, and Razumov’s presence in Geneva deepens their distress. Ultimately, Razumov himself must come to terms with his choices.&lt;/p&gt;
+			&lt;p&gt;The narrator in the novel is an Anglo-Russian language teacher, an older man who has been tutoring Natalia Haldin in English literature. His telling of the story draws both on his own eyewitness experience, and on Razumov’s journal which has come into his possession.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; 1920 preface to this work acknowledged its unpopularity on its original publication nine years earlier. Subsequently, however, it has been widely acclaimed as perhaps his finest political novel. It also shares something of the prescience shown in &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent"&gt;&lt;i&gt;The Secret Agent&lt;/i&gt;&lt;/a&gt;, written four years earlier.&lt;/p&gt;
+			&lt;p&gt;Ambivalence among the book’s first readers may have had something to do with Conrad’s artistic choices for the narration and structure of the novel. His unnamed narrator, the somewhat intrusive “teacher of languages,” disavows facility with words and imagination, yet the story emerges from the perceptions of his “Western eyes.” Structurally, the story line moves in a disordered chronology, making disjunctions in the plot. Similarly, its many intense dialogues somehow fail to connect their participants.&lt;/p&gt;
+			&lt;p&gt;Conrad’s exploration of stability and revolution, loyalty and betrayal, action and abstention, love and indifference, are all deepened by these unsettling techniques, demanding that the reader engage actively in the unfolding of this political and personal drama.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2480</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.268641</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Conrad’s 1920 preface has been transcribed for this edition, thus this ebook constitutes its source.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Under_Western_Eyes_(novel)</meta>
@@ -69,10 +74,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Singer Sargent</dc:contributor>
+		<meta property="file-as" refines="#artist">Sargent, John Singer</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Singer_Sargent</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50019335</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
@@ -90,6 +95,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
