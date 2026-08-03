@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/under-western-eyes</dc:identifier>
 		<dc:date>2024-08-29T19:52:54Z</dc:date>
@@ -52,15 +52,15 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Kirylo Sidorovitch Razumov is a student in St. Petersburg, applying himself to his studies and harboring ambitions of rising in Russian society. But his plans are shattered when a fellow student, Victor Haldin, assassinates a high-ranking Russian minister before turning to Razumov for help. Razumov is deeply conflicted, but in the moment acts to preserve his own self-interest rather than assist his friend.&lt;/p&gt;
 			&lt;p&gt;Haldin had spoken to Razumov of his mother and sister, living in Geneva. As Razumov is recruited to spy for the Czarist government, he makes his way to Switzerland and meets Mrs. Haldin and the sister, Natalia. The women have been deeply affected by the loss of their son and brother, and Razumov’s presence in Geneva deepens their distress. Ultimately, Razumov himself must come to terms with his choices.&lt;/p&gt;
 			&lt;p&gt;The narrator in the novel is an Anglo-Russian language teacher, an older man who has been tutoring Natalia Haldin in English literature. His telling of the story draws both on his own eyewitness experience, and on Razumov’s journal which has come into his possession.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; 1920 preface to this work acknowledges its contemporary unpopularity. Subsequently, however, it has been widely acclaimed as perhaps his finest political novel, sharing something of the prescience shown in &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent"&gt;&lt;i&gt;The Secret Agent&lt;/i&gt;&lt;/a&gt;, written four years earlier.&lt;/p&gt;
 			&lt;p&gt;Ambivalence among the book’s first readers may have had something to do with Conrad’s artistic choices for the narration and structure of the novel. His unnamed narrator, the somewhat intrusive “teacher of languages,” disavows facility with words and imagination, yet the story emerges from the perceptions of his “Western eyes.” Structurally, the storyline moves in a disordered chronology. Similarly, its often-intense dialogue somehow fails to establish a connection between the participants.&lt;/p&gt;
 			&lt;p&gt;Conrad’s exploration of stability and revolution, loyalty and betrayal, action and abstention, love and indifference, are all deepened by these unsettling techniques, demanding that the reader engage actively in the unfolding of this political and personal drama.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2480</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.268641</dc:source>
