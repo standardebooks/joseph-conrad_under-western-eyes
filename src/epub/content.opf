@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will.</dc:abstract>
+		<meta property="schema:abstract">A university student in St. Petersburg is drawn into the activities of a revolutionary group against his will.</meta>
 		<dc:description>
 			&lt;p&gt;Kirylo Sidorovitch Razumov is a student in St. Petersburg, applying himself to his studies and harboring ambitions of rising in Russian society. But his plans are shattered when a fellow student, Victor Haldin, assassinates a high-ranking Russian minister before turning to Razumov for help. Razumov is deeply conflicted, but in the moment acts to preserve his own self-interest rather than assist his friend.&lt;/p&gt;
 			&lt;p&gt;Haldin had spoken to Razumov of his mother and sister, living in Geneva. As Razumov is recruited to spy for the Czarist government, he makes his way to Switzerland and meets Mrs. Haldin and the sister, Natalia. The women have been deeply affected by the loss of their son and brother, and Razumov’s presence in Geneva deepens their distress. Ultimately, Razumov himself must come to terms with his choices.&lt;/p&gt;
