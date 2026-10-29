@@ -73,7 +73,7 @@
 		<dc:creator id="author">Joseph Conrad</dc:creator>
 		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
 		<meta property="schema:alternateName" refines="#author">Józef Teodor Konrad Korzeniowski</meta>
-		<link href="https://en.wikipedia.org/wiki/Joseph_conrad" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Joseph_Conrad" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79054067.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
